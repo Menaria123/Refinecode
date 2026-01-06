@@ -1,0 +1,10 @@
+torch
+transformers
+fastapi
+uvicorn
+nltk
+tree-sitter
+requests
+pydantic
+pytest
+httpx
